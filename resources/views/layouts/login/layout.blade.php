@@ -1,0 +1,4 @@
+@include('layouts.login.head')
+@include('layouts.login.header')
+@yield('content')
+@include('layouts.login.footer')
